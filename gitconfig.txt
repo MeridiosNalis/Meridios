@@ -84,4 +84,15 @@ git config --global user.email you@example.com
 
 
 
+git branch -M main
+
+
+git remote add origin AQUI
+
+ 
+
+git push -u origin main
+
+
+
 
